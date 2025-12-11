@@ -15,7 +15,7 @@
                 <i data-lucide="book-open" class="w-8 h-8 text-gray-700"></i>
                 <h1 class="text-3xl font-bold text-gray-800">CPU動作シミュレーター</h1>
             </div>
-            <p class="text-gray-600">CPUの基本的な動作(フェッチ→デコード→実行)を体験できます</p>
+            <p class="text-gray-600">CPUの基本的な動作(フェッチ→デコード→実行)を行おう！！</p>
         </div>
 
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
